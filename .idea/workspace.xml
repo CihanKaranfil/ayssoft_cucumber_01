@@ -4,62 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ab22296-e0d0-42ee-b2c2-430011a4e0bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/AlacakDekontPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/AlisIrsaliyesiPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/AlisPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/BankaPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/BorcDekontuPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/HatalarPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/KasaPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/StokPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/VirmanPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/uyumsoft/EFaturaPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/uyumsoft/GirisSayfasiPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/AlacakDekontDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/AlisFaturasiDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/AlisIrsaliyesiStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/AlısIadeFaturasıDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/BankaIslemleriDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/BorcDekontuDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/Ekocari_StepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/HatalarStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/KasaIslemleriStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/StokEklemeSilme_Def.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/VirmanStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/uyumsoft/GirisSayfası_StepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefination/uyumsoft/e_FaturaStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/02_CariModülü/TC_01_YeniCariEkleme_Silme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/02_CariModülü/TC_02_CariyeBorcDekOluştorma_Silme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/02_CariModülü/TC_03_CariyeAlacakDekOlusturma.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/02_CariModülü/TC_04_CariyeVirmanFisiOluşturma.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/02_CariModülü/TC_05_CariyeAcılısFisiOlusturma.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/03_Stok_Modülü/TC_03_StokEkleme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/04_Alıs_Modülü/TC_04_YeniAlisFaturasi_Ekleme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/04_Alıs_Modülü/TC_05_YeniAlısIadeFaturası.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/04_Alıs_Modülü/TC_06_AlisIrsaliyesiOluşturma_Silme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/05_Satıs_Modülü/TC_01_YeniSatısFaturasıOlusturma.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/06_Kasa_Modülü/TC_09_YeniKasaOluşturma_Silme.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/07_Banka_Modülü/TC_01_YeniBankaOluşturma.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocaride_Alınan_Hatalar/devamEdenHatalar/Alişİadeİrsaliyelrinin_ AlişİrsaliyesineDönüşmesi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocaride_Alınan_Hatalar/devamEdenHatalar/DövizliSatışFatAçıklamanınBoşOlması.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocaride_Alınan_Hatalar/düzeltilenHatalar/AlisİadeFatGözİkonuCalışmamasi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocaride_Alınan_Hatalar/düzeltilenHatalar/Alisİrsaliyersi_Düzenlenememesi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ekocaride_Alınan_Hatalar/düzeltilenHatalar/AlişİadeFat_AlişFaturasına_Dönüşmesi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/uyumsoft/TC_01_KullaniciGirişYapabilmeli.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/uyumsoft/TC_02_eFaturaOluştrma.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ekocari/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ekocari/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefination/EkocariStepDefinotions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefination/ekocari/EkocariStepDefinotions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefination/Ekocari_StepDef.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ekocari/TC_01_KullanıcıGirisi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ekocari/01_GirisModülü/TC_01_KullanıcıGirisi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ekocari/TC_02_YeniCariEkleme_Silme.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ilkfeaturefile.feature" beforeDir="false" />
-    </list>
+    <list default="true" id="6ab22296-e0d0-42ee-b2c2-430011a4e0bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,53 +35,53 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: AlisİadeFatGözİkonuCalışmamasi (1).executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: AlisİadeFatGözİkonuCalışmamasi.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Alisİrsaliyersi_Düzenlenememesi.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Alişİadeİrsaliyelrinin_ AlişİrsaliyesineDönüşmesi.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: DövizliSatışFatAçıklamanınBoşOlması.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_01_KullaniciGirişYapabilmeli.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_01_KullanıcıGirisi.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_02_CariyeBorcDekOluştorma_Silme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_02_YeniCariEkleme_Silme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_02__CariyeBorcDekOluştorma_Silme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_02_eFaturaOluştrma.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_03_CariyeAlacakDekOlusturma (1).executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_03_CariyeAlacakDekOlusturma.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_03_StokEkleme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_04_YeniAlisFaturasi_Ekleme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_05_YeniAlısIadeFaturası.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: TC_06_AlisIrsaliyesiOluşturma_Silme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: ilkFeatureFile.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: ilkfeaturefile.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Dövizli Satıs Faturalarında açıklama bolumunun gelmemesi.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Kullanici Yeni Banka  hesabı oluşturur.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Kullanici Yeni Cari Ekler ve Olusturulan Cariyi Siler.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Kullanıcı Ekocari sayfasına giriş yapar.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: TC01 Cari Kart Ekleme.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: US_01_Kullanıcı Stok Ekler.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Windows 11/IdeaProjects/AYSSOFT_CUCUMBER_TEST/src/test/java/stepDefination/ekocari&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Windows 11/IdeaProjects/AYSSOFT_CUCUMBER_TEST/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: AlisİadeFatGözİkonuCalışmamasi (1).executor": "Run",
+    "Cucumber Java.Feature: AlisİadeFatGözİkonuCalışmamasi.executor": "Run",
+    "Cucumber Java.Feature: Alisİrsaliyersi_Düzenlenememesi.executor": "Run",
+    "Cucumber Java.Feature: Alişİadeİrsaliyelrinin_ AlişİrsaliyesineDönüşmesi.executor": "Run",
+    "Cucumber Java.Feature: DövizliSatışFatAçıklamanınBoşOlması.executor": "Run",
+    "Cucumber Java.Feature: TC_01_KullaniciGirişYapabilmeli.executor": "Run",
+    "Cucumber Java.Feature: TC_01_KullanıcıGirisi.executor": "Run",
+    "Cucumber Java.Feature: TC_02_CariyeBorcDekOluştorma_Silme.executor": "Run",
+    "Cucumber Java.Feature: TC_02_YeniCariEkleme_Silme.executor": "Run",
+    "Cucumber Java.Feature: TC_02__CariyeBorcDekOluştorma_Silme.executor": "Run",
+    "Cucumber Java.Feature: TC_02_eFaturaOluştrma.executor": "Run",
+    "Cucumber Java.Feature: TC_03_CariyeAlacakDekOlusturma (1).executor": "Run",
+    "Cucumber Java.Feature: TC_03_CariyeAlacakDekOlusturma.executor": "Run",
+    "Cucumber Java.Feature: TC_03_StokEkleme.executor": "Run",
+    "Cucumber Java.Feature: TC_04_YeniAlisFaturasi_Ekleme.executor": "Run",
+    "Cucumber Java.Feature: TC_05_YeniAlısIadeFaturası.executor": "Run",
+    "Cucumber Java.Feature: TC_06_AlisIrsaliyesiOluşturma_Silme.executor": "Run",
+    "Cucumber Java.Feature: ilkFeatureFile.executor": "Run",
+    "Cucumber Java.Feature: ilkfeaturefile.executor": "Run",
+    "Cucumber Java.Scenario: Dövizli Satıs Faturalarında açıklama bolumunun gelmemesi.executor": "Run",
+    "Cucumber Java.Scenario: Kullanici Yeni Banka  hesabı oluşturur.executor": "Run",
+    "Cucumber Java.Scenario: Kullanici Yeni Cari Ekler ve Olusturulan Cariyi Siler.executor": "Run",
+    "Cucumber Java.Scenario: Kullanıcı Ekocari sayfasına giriş yapar.executor": "Run",
+    "Cucumber Java.Scenario: TC01 Cari Kart Ekleme.executor": "Run",
+    "Cucumber Java.Scenario: US_01_Kullanıcı Stok Ekler.executor": "Run",
+    "JUnit.Runner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Windows 11/IdeaProjects/AYSSOFT_CUCUMBER_TEST/src/test/java/stepDefination/ekocari",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Windows 11/IdeaProjects/AYSSOFT_CUCUMBER_TEST/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Windows 11\IdeaProjects\AYSSOFT_CUCUMBER_TEST\src\test\java\stepDefination\ekocari\pages\ekocari" />
@@ -303,7 +248,7 @@
       <workItem from="1709271849361" duration="530000" />
       <workItem from="1709291170702" duration="8546000" />
       <workItem from="1709531186755" duration="123000" />
-      <workItem from="1709540680377" duration="3013000" />
+      <workItem from="1709540680377" duration="3321000" />
     </task>
     <task id="LOCAL-00001" summary="v-1">
       <option name="closed" value="true" />
