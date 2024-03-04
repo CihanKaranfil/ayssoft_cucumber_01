@@ -22,6 +22,8 @@ public class HomePage {
     @FindBy(xpath = "//*[@id=\"txtCODE\"]") public WebElement carikodu;
     @FindBy(xpath = "//*[@id=\"txtDEFINITION_\"]") public WebElement cariadi;
     @FindBy(xpath = "//*[@id=\"gelecekDeger\"]/div[2]/div[2]/div/div[2]/button[1]") public WebElement kaydetbuton;
+    @FindBy(xpath = "//*[@id=\"gelecekDeger\"]/div[1]/div[2]/div/div/button/span") public WebElement kaydetbuton2;
     @FindBy(xpath = "//*[@id=\"context-menu\"]/context-menu-content/div/ul/li[6]/a") public WebElement cariSil;
-    @FindBy(xpath = "/html/body/div[44]/div/div[6]/button[1]") public WebElement cariSilevetButton;
+
+    @FindBy(xpath = "/html/body/div[26]/div/div[6]/button[1]") public WebElement cariSilevetButton;
 }

@@ -1,4 +1,4 @@
-package stepDefination;
+package stepDefination.ekocari;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -29,5 +29,6 @@ public class EkocariStepDefinotions {
 
     @And("Sayfayı kapar")
     public void sayfayıKapar() {
+        Driver.closeDriver();
     }
 }
